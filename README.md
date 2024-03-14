@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vittoriapeppoloni01 
-- 🌟 About Me
+- 🌟 **About Me:**
 I'm an aspiring AI developer currently completing my bachelor's in Artificial Intelligence in Milan (IT) with an outstanding internship experience at PwC's Digital Innovation Team. I contributed to developing the MeetDiary tool, enhancing meeting productivity through AI-driven insights.
 
 
